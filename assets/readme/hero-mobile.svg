@@ -16,7 +16,7 @@
       <circle cx="100" cy="76" r="11" fill="#FFB18F"/><text x="138" y="84" fill="#F8FAFC">any compatible harness</text>
       <circle cx="100" cy="151" r="11" fill="#F8FAFC"/><text x="138" y="159" fill="#F8FAFC">Python adapter</text>
       <circle cx="100" cy="225" r="11" fill="#FF6B45"/><text x="138" y="233" fill="#F8FAFC">Pi session</text>
-      <text x="306" y="278" text-anchor="middle" fill="#FF6B45" font-size="18">OPENAI CODEX · GPT-5.6-LUNA</text>
+      <text x="306" y="278" text-anchor="middle" fill="#FF6B45" font-size="18">OPENAI · GPT-5.6-LUNA</text>
     </g>
   </g>
 </svg>
